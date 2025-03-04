@@ -1,0 +1,87 @@
+{
+    "@@locale": "en",
+    "appName": "Jyotish Paramarsha",
+    "@appName": {
+        "description": "The name of the app"
+    },
+    "welcome": "Welcome",
+    "@welcome": {
+        "description": "Welcome message"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Login button text"
+    },
+    "signup": "Sign Up",
+    "@signup": {
+        "description": "Sign up button text"
+    },
+    "email": "Email",
+    "@email": {
+        "description": "Email field label"
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Password field label"
+    },
+    "enterEmail": "Enter your email",
+    "@enterEmail": {
+        "description": "Placeholder for email field"
+    },
+    "enterPassword": "Enter your password",
+    "@enterPassword": {
+        "description": "Placeholder for password field"
+    },
+    "kundali": "Kundali",
+    "@kundali": {
+        "description": "Kundali section label"
+    },
+    "horoscope": "Horoscope",
+    "@horoscope": {
+        "description": "Horoscope section label"
+    },
+    "chat": "Chat",
+    "@chat": {
+        "description": "Chat section label"
+    },
+    "videoCall": "Video Call",
+    "@videoCall": {
+        "description": "Video call section label"
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "Settings section label"
+    },
+    "language": "Language",
+    "@language": {
+        "description": "Language option label"
+    },
+    "theme": "Theme",
+    "@theme": {
+        "description": "Theme option label"
+    },
+    "logout": "Logout",
+    "@logout": {
+        "description": "Logout button text"
+    },
+    "emailRequired": "Please enter your email",
+    "@emailRequired": {
+        "description": "Error message for missing email"
+    },
+    "passwordRequired": "Please enter your password",
+    "@passwordRequired": {
+        "description": "Error message for missing password"
+    },
+    "invalidEmail": "Please enter a valid email",
+    "@invalidEmail": {
+        "description": "Error message for invalid email"
+    },
+    "shortPassword": "Password must be at least 6 characters",
+    "@shortPassword": {
+        "description": "Error message for short password"
+    },
+    "appTitle": "Jyotish Paramarsha",
+    "@appTitle": {
+        "description": "The title of the application"
+    }
+}

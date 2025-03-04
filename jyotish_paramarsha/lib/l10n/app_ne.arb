@@ -1,0 +1,87 @@
+{
+    "@@locale": "ne",
+    "appName": "ज्योतिष परामर्श",
+    "@appName": {
+        "description": "The name of the app"
+    },
+    "welcome": "स्वागत छ",
+    "@welcome": {
+        "description": "Welcome message"
+    },
+    "login": "लग इन",
+    "@login": {
+        "description": "Login button text"
+    },
+    "signup": "साइन अप",
+    "@signup": {
+        "description": "Signup button text"
+    },
+    "email": "इमेल",
+    "@email": {
+        "description": "Email field label"
+    },
+    "password": "पासवर्ड",
+    "@password": {
+        "description": "Password field label"
+    },
+    "enterEmail": "इमेल प्रविष्ट गर्नुहोस्",
+    "@enterEmail": {
+        "description": "Placeholder for email field"
+    },
+    "enterPassword": "पासवर्ड प्रविष्ट गर्नुहोस्",
+    "@enterPassword": {
+        "description": "Placeholder for password field"
+    },
+    "kundali": "कुण्डली",
+    "@kundali": {
+        "description": "Kundali section title"
+    },
+    "horoscope": "राशिफल",
+    "@horoscope": {
+        "description": "Horoscope section title"
+    },
+    "chat": "च्याट",
+    "@chat": {
+        "description": "Chat section title"
+    },
+    "videoCall": "भिडियो कल",
+    "@videoCall": {
+        "description": "Video call section title"
+    },
+    "settings": "सेटिङ्स",
+    "@settings": {
+        "description": "Settings section title"
+    },
+    "language": "भाषा",
+    "@language": {
+        "description": "Language option"
+    },
+    "theme": "थिम",
+    "@theme": {
+        "description": "Theme option"
+    },
+    "logout": "लग आउट",
+    "@logout": {
+        "description": "Logout button text"
+    },
+    "emailRequired": "कृपया इमेल प्रविष्ट गर्नुहोस्",
+    "@emailRequired": {
+        "description": "Error message for missing email"
+    },
+    "passwordRequired": "कृपया पासवर्ड प्रविष्ट गर्नुहोस्",
+    "@passwordRequired": {
+        "description": "Error message for missing password"
+    },
+    "invalidEmail": "कृपया मान्य इमेल प्रविष्ट गर्नुहोस्",
+    "@invalidEmail": {
+        "description": "Error message for invalid email"
+    },
+    "shortPassword": "पासवर्ड कम्तिमा ६ अक्षरको हुनुपर्छ",
+    "@shortPassword": {
+        "description": "Error message for short password"
+    },
+    "appTitle": "ज्योतिष परामर्श",
+    "@appTitle": {
+        "description": "Title of the app"
+    }
+}
